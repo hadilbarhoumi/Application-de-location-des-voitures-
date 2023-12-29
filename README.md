@@ -1,0 +1,11 @@
+E-Cars représente une application en ligne de commande (cmd) simple, conçue en langage C, dédiée à la gestion efficace de la location de voitures. Avec une interface conviviale, cette application offre aux utilisateurs une panoplie d'options à partir du menu principal, incluant l'affichage des voitures disponibles, la consultation de l'historique des locations, la location de nouveaux véhicules, la visualisation des détails spécifiques d'une voiture, la suppression de voitures défaillantes, la modification des informations des voitures existantes, le traitement des retours de locations, la recherche de voitures disponibles selon le type de carburant ou de véhicule, et enfin, l'affichage en temps réel des voitures actuellement louées.
+
+La fonction "Afficher les voitures disponibles" offre une présentation détaillée de toutes les voitures disponibles, y compris leur ID, leur description, et leur disponibilité. L'historique de location, accessible via une option dédiée, propose un aperçu complet des locations antérieures, incluant des détails tels que la date, la durée, le nom, le prénom du locataire, ainsi que le numéro de carte d'identité.
+
+La fonction "Louer une voiture" permet aux utilisateurs de choisir une voiture disponible, de spécifier la date et la durée de location, et de fournir leurs informations personnelles. Le prix de la location est calculé en fonction de la durée.
+
+Les options de gestion des voitures, telles que la suppression de voitures défaillantes ou la modification des informations des voitures existantes, offrent une flexibilité dans la maintenance de la flotte. De plus, la fonction de traitement des retours gère efficacement la disponibilité des voitures après leur retour, mettant à jour l'historique de location.
+
+La recherche de voitures disponibles par type de carburant ou type de véhicule offre une fonctionnalité de filtrage pratique pour les utilisateurs en quête de véhicules spécifiques.
+
+Enfin, l'application assure une expérience utilisateur complète en affichant en temps réel les voitures actuellement louées, permettant une surveillance efficace de l'utilisation de la flotte. E-Cars s'efforce ainsi de simplifier le processus de location de voitures en fournissant un ensemble complet de fonctionnalités pour répondre aux besoins variés des utilisateurs.
